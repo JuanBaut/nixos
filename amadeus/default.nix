@@ -44,7 +44,8 @@ pkgs.symlinkJoin {
     pkgs.xdg-desktop-portal-gtk
     pkgs.xdg-desktop-portal
     pkgs.recursive
-    pkgs.maple-mono.NL-TTF
+    pkgs.monaspace
+    pkgs.maple-mono.truetype-autohint
 
     pkgs.uv
     pkgs.ty
